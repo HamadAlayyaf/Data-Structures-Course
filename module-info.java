@@ -1,0 +1,3 @@
+module CollageComputerScience {
+	exports collagecomputerscience;
+}
